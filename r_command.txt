@@ -1,0 +1,6 @@
+right 90
+forward 78
+right 45
+forward 49
+left 45
+forward 180
